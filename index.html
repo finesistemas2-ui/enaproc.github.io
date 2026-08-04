@@ -93,7 +93,7 @@ footer h4{
 
 <div class="container-fluid">
 
-<a class="navbar-brand" href="#">LOGO</a>
+<a class="navbar-brand" href="#"></a>
 
 <div class="navbar-nav">
 
