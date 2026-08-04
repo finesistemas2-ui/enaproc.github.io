@@ -136,7 +136,7 @@ Campus Virtual
 <b>Nombre completo:</b>
 
 <a href="#">
-Angel Gabriel VargasRuiz
+Mario Enrique Macias Espinoza
 </a>
 
 <br>
